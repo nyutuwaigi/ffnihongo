@@ -14300,3 +14300,20 @@ input{
   align-items: center;
   justify-content: center;
 }
+
+section.headertop {
+  background-image : linear-gradient(rgb(256,250,250),rgba(220,20,60)),url(assets/images/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  min-height: 90%;
+  width:100%;
+  height: 100%;
+  /* background: #048C3F;
+  color: #fff; */
+  /* margin:0;
+  padding:0; */
+}
