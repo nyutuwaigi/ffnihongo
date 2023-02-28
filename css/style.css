@@ -14282,7 +14282,7 @@ input{
 
 .hero{
  
-  background-image: url(../assets/images/greyjpn.jpg) no-repeat center center fixed;
+  /* background-image: url(../assets/images/greyjpn.jpg) no-repeat center center fixed; */
   padding: 2px;
   margin: 1px;
   height:800px;
@@ -14302,7 +14302,7 @@ input{
 }
 
 section.headertop {
-  background-image : linear-gradient(rgb(256,250,250),rgba(220,20,60)),url(assets/images/bg.jpg);
+  background-image : linear-gradient(rgb(251,206,177),rgba(220,20,60)),url(assets/images/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-size: cover;
