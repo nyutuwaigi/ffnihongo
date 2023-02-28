@@ -14288,3 +14288,15 @@ input{
   height:800px;
   background-color: #000;
 }
+
+.thumb{
+  display:flex;
+  justify-content: center;
+}
+
+.cmgsoon{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
